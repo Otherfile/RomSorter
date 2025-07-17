@@ -4,4 +4,4 @@ On linux, just simply drag and drop the script and xml file into the directory o
 
 then, all you need to do is run
 
-<pre lang="markdown"> ```bash bash rom_sorter.sh ``` </pre>
+<pre lang="bash"> bash rom_sorter.sh </pre>
