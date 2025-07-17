@@ -1,7 +1,9 @@
 # Usage
 
 ## Linux
-Just simply drag and drop the script and xml file into the directory of your roms, ie. your **game** folder
+Just simply drag and drop the script and xml file into the directory of your roms, ie. your **game** folder,
+
+cd into your directory,
 
 then, all you need to do is run
 
