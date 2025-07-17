@@ -1,0 +1,7 @@
+## Usage
+
+On linux, just simply drag and drop the script and xml file into the directory of your roms, ie. your ""game"" folder
+
+then, all you need to do is run
+
+<pre lang="markdown"> ```bash bash rom_sorter.sh ``` </pre>
